@@ -1,0 +1,57 @@
+{
+  "version": "Sample 1.0.0",
+  "model": "/static/live2d/live2d-widget-model-chitose/assets/moc/chitose.moc",
+  "textures": [
+    "/static/live2d/live2d-widget-model-chitose/assets/moc/chitose.2048/texture_00.png"
+  ],
+  "motions": {
+    "null": [
+      {
+        "file": "/static/live2d/live2d-widget-model-chitose/assets/mtn/chitose_handwave.mtn"
+      },
+      {
+        "file": "/static/live2d/live2d-widget-model-chitose/assets/mtn/chitose_kime01.mtn"
+      },
+      {
+        "file": "/static/live2d/live2d-widget-model-chitose/assets/mtn/chitose_kime02.mtn"
+      }
+    ],
+    "idle": [
+      {
+        "file": "/static/live2d/live2d-widget-model-chitose/assets/mtn/chitose_idle.mtn"
+      }
+    ]
+  },
+  "expressions": [
+    {
+      "name": "f01.exp.json",
+      "file": "/static/live2d/live2d-widget-model-chitose/assets/exp/f01.exp.json"
+    },
+    {
+      "name": "f02.exp.json",
+      "file": "/static/live2d/live2d-widget-model-chitose/assets/exp/f02.exp.json"
+    },
+    {
+      "name": "f03.exp.json",
+      "file": "/static/live2d/live2d-widget-model-chitose/assets/exp/f03.exp.json"
+    },
+    {
+      "name": "f04.exp.json",
+      "file": "/static/live2d/live2d-widget-model-chitose/assets/exp/f04.exp.json"
+    },
+    {
+      "name": "f05.exp.json",
+      "file": "/static/live2d/live2d-widget-model-chitose/assets/exp/f05.exp.json"
+    },
+    {
+      "name": "f06.exp.json",
+      "file": "/static/live2d/live2d-widget-model-chitose/assets/exp/f06.exp.json"
+    },
+    {
+      "name": "f07.exp.json",
+      "file": "/static/live2d/live2d-widget-model-chitose/assets/exp/f07.exp.json"
+    }
+  ],
+  "physics": "/static/live2d/live2d-widget-model-chitose/assets/chitose.physics.json",
+  "pose": "/static/live2d/live2d-widget-model-chitose/assets/chitose.pose.json"
+}

@@ -11,7 +11,7 @@
 # 技术栈(technology stack)
  Vuejs ElementUi live2d 
  
-# 设计组件（components）
+# 组件（components）
 ```
     "axios": "^0.19.0",
     "bootstrap3": "^3.3.5",
